@@ -4,7 +4,9 @@
 ## Background
 
 This is a Transformer-based model with Filtering and Aggregation mechanisms for the task of Relation Extraction. Previous methods adopt tree pruning to keep free from the noisy words, which may hurt the semantic integrity. FAT-RE treats a sentence as a fully-connected graph, and let the model decide  which connections are important. 
-![](./imgs/tree%20pruning.png)
+
+<img src="https://github.com/LifangD/FAT-RE/blob/master/imgs/tree%20pruning.png" width="60%">
+
 ## Prepare
    1. Dataset
       - TACRED
@@ -31,7 +33,7 @@ python eval.py --xxx
 
 
 ## Result 
-![](./imgs/result.png)
+<img src="https://github.com/LifangD/FAT-RE/blob/master/imgs/result.png" width="60%">
 
 
 ## Reference
