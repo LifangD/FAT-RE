@@ -7,6 +7,10 @@ This is a Transformer-based model with Filtering and Aggregation mechanisms for 
 
 <img src="https://github.com/LifangD/FAT-RE/blob/master/imgs/tree%20pruning.png" width="60%">
 
+## Architecture 
+<img src="https://github.com/LifangD/FAT-RE/blob/master/imgs/arc.png" width="60%" >
+
+
 ## Prepare
    1. Dataset
       - TACRED
